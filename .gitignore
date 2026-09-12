@@ -1,0 +1,8 @@
+# Build outputs
+build/
+tests/out/
+
+# Signing keys and passwords are NEVER committed
+*.keystore
+*.jks
+*.pass

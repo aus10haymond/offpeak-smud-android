@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OffPeak · SMUD Rates</string>
+    <string name="widget_desc">Shows the current SMUD electricity rate period at a glance.</string>
+</resources>
