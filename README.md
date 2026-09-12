@@ -5,9 +5,11 @@ Time-of-Day electricity rates at a glance — the current period and price, a li
 countdown to the next change, a 24-hour timeline, upcoming pricing windows, and
 the full rate tables.
 
+Inspired by the iOS app
+[OffPeak – SMUD Rates](https://apps.apple.com/us/app/offpeak-smud-rates/id6802120827).
 Schedule data is compiled from the open spec at
 [smud-time-of-day-schedule](https://github.com/nacdwk/smud-time-of-day-schedule)
-(MIT). Not affiliated with or endorsed by SMUD.
+(MIT). Not affiliated with or endorsed by SMUD, nor by the iOS app's author.
 
 ## Features
 
