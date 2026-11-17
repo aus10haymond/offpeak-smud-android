@@ -25,7 +25,7 @@ Schedule data is compiled from the open spec at
 ## Install
 
 Download the APK from the
-[latest release](https://github.com/) and install it (Android 8.0+).
+[latest release](https://github.com/aus10haymond/offpeak-smud-android/releases/latest) and install it (Android 8.0+).
 Because it's sideloaded, Android will ask you to allow "install unknown apps"
 once.
 
